@@ -105,7 +105,7 @@ h6,
     font-family: 'Jost', sans-serif;
     font-size: 18px;
     font-weight: 500;
-    color: var(--light) !important;
+    color: #023070 !important;
     outline: none;
     transition: .5s;
 }
@@ -168,6 +168,7 @@ h6,
         left: 0;
         border-bottom: 1px solid rgba(256, 256, 256, .1);
         z-index: 999;
+	  background-color : #FFF;
     }
     
     .sticky-top.navbar-light {
